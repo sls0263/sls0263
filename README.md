@@ -6,7 +6,7 @@
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
 <img alt="React" src ="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
-<img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 
 <!--
