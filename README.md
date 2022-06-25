@@ -1,7 +1,7 @@
 # Hi my name is Jaeyong Shin 👋 
 
-<p> Welcome to my GitHub House </p> <br/>
-<p> I'm Jaeyong, My goal is to be a full stack developer in Korea, Australia or U.S.A, currently living in Incheon, Korea.
+<p> Welcome to my GitHub House </p> 
+<p> I'm Jaeyong, My goal is to be a full stack developer in Korea, Australia or U.S.A, currently living in Incheon, Korea. </p> <br/>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
