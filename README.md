@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
-</div>
+</div> <br/>
 
 <div align=center><h1>🌱 STUDYING... </h1></div>
 
