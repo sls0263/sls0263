@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi my name is Jaeyong Shin 👋
+# Welcome to my GitHub House
 
 <h4> 🌱 I’m currently learning ... </h4>
 <img alt="HTML5" src = "https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/>
