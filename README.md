@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-</div>
+</div> <br/>
 
 <!--
 **sls0263/sls0263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
