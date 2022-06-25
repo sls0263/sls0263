@@ -5,7 +5,7 @@
 <img alt="Spring" src ="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="React" src ="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 
 
