@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning ...
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <!--
 **sls0263/sls0263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
