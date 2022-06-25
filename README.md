@@ -6,10 +6,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img alt="React" src ="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
-<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
 <!--
 **sls0263/sls0263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
