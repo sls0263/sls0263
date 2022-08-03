@@ -2,8 +2,12 @@
 
 <p> Hello World! </p> 
 <p> I'm Jaeyong, My goal is to be a full stack developer in Korea, Australia or U.S.A, currently living in Incheon, Korea. </p> <br/>
-<p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p>
+<p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/>
 
+<div align=left><h2>ABOUT ME</h2></div>
+* My Info
+  *Number
+<br/>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
