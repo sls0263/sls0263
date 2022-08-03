@@ -10,6 +10,8 @@
   * Email : sls0263@gmail.com
   * school : JEIU
   * Major : AI Computer Information (AI컴퓨터정보과)
+* Project
+  * 2022 06 27 ~ 2022 07 29 : 2022 AI Full-Stack Internship Program - YeZak
 <br/>
 <div align=center><h1>📚 STACKS</h1></div>
 
