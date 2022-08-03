@@ -5,8 +5,11 @@
 <p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/>
 
 <div align=left><h2>ABOUT ME</h2></div>
+
 * My Info
-  *Number
+  * Email : sls0263@gmail.com
+  * school : JEIU
+  * Major : AI Computer Information (AI컴퓨터정보과)
 <br/>
 <div align=center><h1>📚 STACKS</h1></div>
 
