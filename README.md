@@ -12,6 +12,7 @@
   * Major : AI Computer Information (AI컴퓨터정보과)
 * Project
   * 2022 06 27 ~ 2022 07 29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
+  * 2022 08 01 ~ ing : <a href:"">FaceCheck</a> (Graduation work)
 <br/>
 <div align=center><h1>📚 STACKS</h1></div>
 
