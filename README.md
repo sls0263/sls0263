@@ -1,8 +1,10 @@
-# 😎 Hi! Nice to see you. 👋 
+## 안녕하세요, 신재용입니다 ! 👋 
 
-<p> Hello World! </p> 
-<p> I'm Jaeyong, My goal is to be a full stack developer in Korea, Australia or U.S.A, currently living in Incheon, Korea. </p> <br/>
-<p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/>
+#### dream by Full-Stack Developer
+* 빨리 성장하는 인재 
+* 팀에 잘 적응하는 인재
+* 커뮤니케이션을 잘하는 인재 <br/>
+<!-- <p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/> -->
 
 <div align=left><h2>ABOUT ME</h2></div>
 
@@ -11,28 +13,29 @@
   * school : JEIU
   * Major : AI Computer Information (AI컴퓨터정보과)
 * Project
-  * 2022 06 27 ~ 2022 07 29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
-  * 2022 08 01 ~ ing : <a href="https://github.com/FaceCheck-Team">FaceCheck</a> (Graduation work)
+  * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
+  * 2022.08.01 ~ ing : <a href="https://github.com/FaceCheck-Team">FaceCheck</a> (Graduation work)
 <br/>
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=left><h2>STACK</h2></div>
 
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/> <br/>
+  <img src="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
 <!--   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">  -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/> <br/>
+  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/> <br/>
+  
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white"/>
 </div> <br/>
 
-<div align=center><h1>🌱 STUDYING... </h1></div>
+<div align=left><h2>STUDYING... </h2></div>
 
-<div align=center>
+<div>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> 
    <br/>
