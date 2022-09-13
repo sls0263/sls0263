@@ -1,9 +1,9 @@
 ## 안녕하세요, 신재용입니다 ! 👋 
 
-### dream by Full-Stack Developer
-* 빨리 성장하는 인재 
-* 팀에 잘 적응하는 인재
-* 커뮤니케이션을 잘하는 인재 <br/><br/>
+* ### dream by Full-Stack Developer
+  * 빨리 성장하는 인재 
+  * 팀에 잘 적응하는 인재
+  * 커뮤니케이션을 잘하는 인재 <br/><br/>
 <!-- <p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/> -->
 
 <div align=left><h2>ABOUT ME</h2></div>
