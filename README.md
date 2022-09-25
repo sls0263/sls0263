@@ -10,6 +10,7 @@
 
 * My Info
   * Email : sls0263@gmail.com
+  * tistory : <a href="https://jaey0ng.tistory.com/">jaey0ng.tistory.com</a>
   * school : JEIU
   * Major : AI Computer Information (AI컴퓨터정보과)
 * Project
