@@ -1,7 +1,7 @@
 ## 안녕하세요,  웹 개발자 신재용입니다 ! 👋 
 
 * ### 이력사항
-  * 2022.12.19 ~ 2023.05.15 B사 App Admin 개발 (Nexacro, Spring, Oracle)
+  * 2022.12.19 ~ 2023.05.15 B사 App Admin 파트 개발 (Nexacro, Spring, Oracle)
   * 2023.05.16 ~ 현재 H사 발주포탈 개발 (Nexacro, Spring, Oracle)
    <br/>
 <!-- <p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/> -->
