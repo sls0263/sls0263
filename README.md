@@ -1,9 +1,9 @@
 ## 안녕하세요, 신재용입니다 ! 👋 
 
-* ### dream by Web Developer
-  * 빨리 성장하는 인재 
-  * 팀에 잘 적응하는 인재
-  * 커뮤니케이션을 잘하는 인재 <br/><br/>
+* ### 이력사항
+  * 2022.12.19 ~ 2023.05.15 B사 App Admin 개발 (Nexacro, Spring, Oracle)
+  * 2023.05.16 ~ 현재 H사 발주포탈 개발 (Nexacro, Spring, Oracle)
+   <br/>
 <!-- <p>💛 → <a href="https://www.instagram.com/j__y0ng/"> INSTARGRAM </a></p> <br/> -->
 
 <div align=left><h2>ABOUT ME</h2></div>
@@ -11,11 +11,12 @@
 * My Info
   * Email : sls0263@gmail.com
   * tistory : <a href="https://jaey0ng.tistory.com/">jaey0ng.tistory.com</a>
-  * school : JEIU
-  * Major : AI Computer Information (AI컴퓨터정보과)
+  * school : HYCU
+  * Major : Computer Science
 * Project
   * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
   * 2022.08.29 ~ 2022.11.14 : 2022 JEIU Capstone Design || Graduation Work - <a href="https://github.com/HyoungStore">HyoungStore</a>
+  * 2023.06.   ~ 진행 중 
 <br/>
 
 <div align=left><h2>🛠 Skills </h2></div>
