@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/> <br/>
-  
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe photoshop&logoColor=white"/>
 </div> <br/>
 
 <div align=left><h2>✏ STUDYING... </h2></div>
