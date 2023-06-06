@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/CSS3-007ACC.svg?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/flask-092E20?style=for-the-badge&logo=flask&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-4479A1?style=for-the-badge&logo=oracle&logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/>
   
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -42,6 +41,8 @@
 <div align=left>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> 
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flask-092E20?style=for-the-badge&logo=flask&logoColor=white"> 
    <br/>
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
