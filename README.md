@@ -12,7 +12,7 @@
   * Email : sls0263@gmail.com
   * tistory : <a href="https://jaey0ng.tistory.com/">jaey0ng.tistory.com</a>
   * school : HYCU
-  * Major : Computer Science
+  * Major/Grade : Computer Science - junior
 * Project
   * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
   * 2022.08.29 ~ 2022.11.14 : 2022 JEIU Capstone Design || Graduation Work - <a href="https://github.com/HyoungStore">HyoungStore</a>
