@@ -16,7 +16,7 @@
 * Project
   * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
   * 2022.08.29 ~ 2022.11.14 : 2022 JEIU Capstone Design || Graduation Work - <a href="https://github.com/HyoungStore">HyoungStore</a>
-  * 2023.06.   ~ 진행 중 
+  * 2023.06.   ~ 기획 중 
 <br/>
 
 <div align=left><h2>🛠 Skills </h2></div>
