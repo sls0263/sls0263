@@ -16,7 +16,7 @@
 * Project
   * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
   * 2022.08.29 ~ 2022.11.14 : 2022 JEIU Capstone Design || Graduation Work - <a href="https://github.com/HyoungStore">HyoungStore</a>
-  * 2023.06.   ~ 기획 중 
+  * 2023.12.17 ~ 진행중 : Vue + SpringBoot + Oracle 직원 정보 페이지 제작 (feat. 공통코드)
 <br/>
 
 <div align=left><h2>🛠 Skills </h2></div>
@@ -27,8 +27,10 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br/>
   
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/> <br/>
@@ -37,7 +39,6 @@
 <div align=left><h2>✏ STUDYING... </h2></div>
 
 <div align=left>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> 
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
    <br/>
