@@ -16,8 +16,9 @@
 * Project
   * 2022.06.27 ~ 2022.07.29 : 2022 AI Full-Stack Internship Program - <a href="https://github.com/YeZak">YeZak</a>
   * 2022.08.29 ~ 2022.11.14 : 2022 JEIU Capstone Design || Graduation Work - <a href="https://github.com/HyoungStore">HyoungStore</a>
+  * 2024.01.08 ~ 2024. : AngMoa Project - <a href="https://github.com/AngMoa">AngMoa</a>
 * Practice
-  * 2023.12.17 ~ : Vue + SpringBoot + Oracle 관리자페이지 (feat. 공통코드/동적코드) - <a href="https://github.com/sls0263/Vue-SpringBoot-DeployInfo-CRUD">Admin Page</a>
+  * 2023.12.17 ~ 2024.01.04 : Vue + SpringBoot + Oracle 관리자페이지 (feat. 공통코드/동적코드, With. kendo Vue) - <a href="https://github.com/sls0263/Vue-SpringBoot-DeployInfo-CRUD">Admin Page</a>
 <br/>
 
 <div align=left><h2>🛠 Skills </h2></div>
